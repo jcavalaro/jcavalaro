@@ -36,11 +36,11 @@ Atualmente estudando Flutter.
 
 Onde me encontrar? :mag:  
 
-<a href="https://www.instagram.com/jakiisweet/?hl=pt-br"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/jakiisweet/?hl=pt-br)  
+<a href="https://www.instagram.com/jakiisweet/?hl=pt-br"><img src="" width="16"></img></a> [Instagram](https://www.instagram.com/jakiisweet/?hl=pt-br)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://www.flaticon.com/free-icon/linkedin_408703?term=linkedin&page=1&position=57&page=1&position=57&related_id=408703&origin=search" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jaqueline-cavalaro/)  
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jaqueline-cavalaro/)  
 
-<a href="jaqueline.cavalaro@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:jaqueline.cavalaro@gmail.com)  
+<a href="jaqueline.cavalaro@gmail.com"><img src=""></img></a> [Email](mailto:jaqueline.cavalaro@gmail.com)  
 
 ---  
 
