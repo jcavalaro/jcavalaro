@@ -31,6 +31,7 @@ Sou mãe de dois cachorrinhos, o Oscar e o Pitoco :dog2:
 Atualmente estudando Flutter.  
 
 ---
+<i class="fa-brands fa-linkedin"></i>
 
 Onde me encontrar? :mag:  
 
